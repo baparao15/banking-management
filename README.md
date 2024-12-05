@@ -32,7 +32,7 @@ The **Banking Management System** is a C++ program designed to streamline bankin
 ## 📁 File Structure
 - `main.cpp` - Core program logic.
 - `admin.txt` - Admin credentials for secure access.
-- `sample_data.h` - Predefined account data for testing.
+- `user.txt` - Predefined account data for testing.
 
 ---
 
