@@ -1,0 +1,10 @@
+SRM10001 John M 1234 1500 Savings john@example.com 123456789012
+SRM10002 Alice F 5678 2500 Checking alice@example.com 987654321098
+SRM10003 bapa m 1458 1000 Savings bapa@gmail.com 456745674567
+SRM10004 hui m 1452 10000 Savings latha@gmail.com 123412341234
+SRM10005 teja m 1234 4876 Savings Teja@gmail.com 123456789101
+SRM10006 yeti f 1234 25900 FD yeti@gmail.com 123412341234
+SRM10007 lucky m 1234 10000 Savings lucky@gmail.com 123412341234
+SRM10008 jaswanth m 1234 7 Savings jaswanth@gmail.com 123412341234
+SRM10009 hiuuuu m 1234 1000 Savings hiuuuu@gmail.com 147147147147
+SRM10010 Kusum M 2580 99990 Savings Kusum@gmail.com 258025802580
